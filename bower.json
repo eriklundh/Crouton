@@ -21,7 +21,7 @@
     "fizzy-ui-utils": "~2.0.0",
     "font-awesome": "*",
     "draggabilly": "*",
-    "font-roboto": "PolymerElements/font-roboto#^1.0.1",
+    "font-roboto": "PolymerElements/font-roboto",
     "fontawesome-iconset": "edfungus/fontawesome-iconset",
     "iron-a11y-announcer": "PolymerElements/iron-a11y-announcer#^1.0.0",
     "iron-a11y-keys-behavior": "PolymerElements/iron-a11y-keys-behavior#^1.0.0",
@@ -59,7 +59,7 @@
     "polymer": "Polymer/polymer#^2.0.0"
   },
   "resolutions": {
-    "polymer": "1.9 - 2",
+    "polymer": "^2.0.0",
     "webcomponentsjs": "^v1.0.2"
   }
 }
